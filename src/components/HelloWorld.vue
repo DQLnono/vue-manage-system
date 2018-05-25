@@ -1,5 +1,8 @@
 <template>
   <div class="hello">
+    <i class="fa fa-user"></i>
+    <i class="far fa-circle"></i>
+    <i class="fab fa-vimeo"></i>
     <h1>{{ msg }}</h1>
     <h2>Essential Links</h2>
     <ul>
